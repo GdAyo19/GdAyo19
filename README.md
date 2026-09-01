@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="pic/profile.jpg" width="160"/>
+<img src="pic/profile.png" width="160"/>
 
-# AYODEJI OLANREWAJU
+# AYODEJI OLANREWAJU DANIEL
 
 Backend Developer | Data Science Enthusiast
 
