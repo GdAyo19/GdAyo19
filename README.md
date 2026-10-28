@@ -268,6 +268,36 @@ It processes text files and performs operations such as:
 
 ---
 
+## 🎙️ VoiceOrder
+
+[VoiceOrder](https://github.com/GdAyo19/voice_order) is an early experiment in ordering food by speaking instead of typing. I'm building a small FastAPI endpoint that accepts an audio file and returns a transcript, and comparing speech recognition with Vosk and Whisper.
+
+It's still a prototype: the next challenge is making the transcript reliable and useful for matching actual menu items, not just turning speech into text.
+
+### Technologies
+
+* Python
+* FastAPI
+* Whisper
+* Vosk
+
+---
+
+## 💛 Tandem — Couples Language Learning
+
+[Tandem](https://github.com/GdAyo19/duo-together) is a language-learning MVP for couples to practice together, play short quizzes, and save phrases they want to remember. The site is live on [GitHub Pages](https://gdayo19.github.io/duo-together/).
+
+I've been working on the app foundation too: adding automated checks, organizing the frontend, and preparing versioned Supabase migrations and shared progress features. Cloud sync still needs a Supabase project to be configured; until then, practice and saved phrases stay in the current browser.
+
+### Technologies
+
+* TypeScript and JavaScript
+* Supabase
+* Vite
+* GitHub Actions
+
+---
+
 ## 📊 Data Analysis Projects
 
 I also work with datasets to understand patterns and generate useful insights.
@@ -347,6 +377,8 @@ Right now I'm focused on becoming a stronger **backend engineer**.
 * ⚙️ Understanding concurrency and scalable systems
 * 🌐 Contributing to open source
 * 📊 Continuing to develop my data skills
+* 🎙️ Improving VoiceOrder's speech-to-text ordering prototype
+* 💛 Building Tandem and learning how to make its app foundation easier to maintain
 
 ---
 
